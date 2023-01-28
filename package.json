@@ -2,7 +2,7 @@
   "name": "TDD-Rendu",
   "packageManager": "yarn@3.3.0",
   "scripts": {
-    "test": "jest --watch",
+    "test": "jest --watchAll",
     "coverage": "jest --coverage"
   },
   "devDependencies": {
